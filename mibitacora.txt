@@ -1,6 +1,6 @@
 Viernes 18 de Octubre
 - Meter PCR del framento C
-- Condiciones de PCR - 96° 5 minutos, etc.
+- Condiciones de PCR - 92° 5 minutos, etc.
 
 Sabado 19 de Octubre
 - Repeti el PCR con las mismas condiciones
